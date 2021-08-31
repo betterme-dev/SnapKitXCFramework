@@ -1,3 +1,3 @@
 # SnapKitXCFramework
 
-A description of this package.
+Package for SnapKit version `5.0.2`
